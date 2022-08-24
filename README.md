@@ -1,12 +1,4 @@
 # NanLearn
 for learn
-test_checkout
-TEST_MERGE
-
-
-
-
-mainmmmmm
-
-main test
+how to merge
 test1
